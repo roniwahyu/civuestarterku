@@ -13,11 +13,11 @@
 	"license": "MIT",
 	 "authors": [
         {
-            "name": "Syahroni Wahyu Iriananda",
-            "email": "roniwahyu@gmail.com"
-        }, {
             "name": "Kenji Suzuki",
             "email": "kenji.uui@gmail.com"
+        }, {
+            "name": "Syahroni Wahyu Iriananda",
+            "email": "roniwahyu@gmail.com"
         }
     ],
      "autoload": {
