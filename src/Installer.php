@@ -2,13 +2,13 @@
 /**
  * Part of CodeIgniter Composer Installer
  *
- * @author     Kenji Suzuki <https://github.com/kenjis>
+ * @author     Syahroni Wahyu Iriananda<https://github.com/roniwahyu>
  * @license    MIT License
- * @copyright  2015 Kenji Suzuki
- * @link       https://github.com/kenjis/codeigniter-composer-installer
+ * @copyright  2019 Syahroni Wahyu Iriananda
+ * @link       https://github.com/roniwahyu/civuestarterku
  */
 
-namespace Kenjis\CodeIgniter;
+namespace Roniwahyu\CodeIgniter;
 
 use Composer\Script\Event;
 
@@ -98,7 +98,7 @@ class Installer
         $io->write('$ cd <codeigniter_project_folder>');
         $io->write('$ php bin/install.php');
         $io->write('<info>The above command will show help message.</info>');
-        $io->write('See <https://github.com/kenjis/codeigniter-composer-installer> for details');
+        $io->write('See <https://github.com/roniwahyu/civuestarterku> for details');
         $io->write('==================================================');
     }
 
