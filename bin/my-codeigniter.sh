@@ -25,5 +25,5 @@ composer require kenjis/ci-phpunit-test --dev
 php vendor/kenjis/ci-phpunit-test/install.php
 
 # Install CodeIgniter Deployer
-composer require kenjis/codeigniter-deployer:1.0.x@dev --dev
-php vendor/kenjis/codeigniter-deployer/install.php
+composer require roniwahyu/codeigniter-deployer:1.0.x@dev --dev
+php vendor/roniwahyu/codeigniter-deployer/install.php

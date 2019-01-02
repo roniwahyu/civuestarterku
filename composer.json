@@ -22,12 +22,12 @@
     ],
      "autoload": {
         "psr-4": {
-            "Kenjis\\CodeIgniter\\": "src/"
+            "Roniwahyu\\CodeIgniter\\": "src/"
         }
     },
     "scripts" : {
         "post-create-project-cmd": [
-            "Kenjis\\CodeIgniter\\Installer::postInstall"
+            "Roniwahyu\\CodeIgniter\\Installer::postInstall"
         ]
     },
     "extra": {

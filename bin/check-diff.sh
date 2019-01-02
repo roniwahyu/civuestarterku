@@ -1,11 +1,11 @@
 #!/bin/sh
 
-## Part of CodeIgniter Composer Installer
+## Part of CodeIgniter Composer Installer by Kenji Suzuki for my own Codeigniter VueJS Starter
 ##
-## @author     Kenji Suzuki <https://github.com/kenjis>
+## @author     Syahroni Wahyu Iriananda <https://github.com/roniwahyu>
 ## @license    MIT License
-## @copyright  2015 Kenji Suzuki
-## @link       https://github.com/kenjis/codeigniter-composer-installer
+## @copyright  2015 Syahroni Wahyu Iriananda
+## @link       https://github.com/roniwahyu/civuestarterku
 
 cd `dirname $0`
 cd ..
